@@ -6,7 +6,7 @@
 
 ### <div align="center">About Me</div>
 
-I am an **AI Engineering Student at EPITA**, passionately focused on **Natural Language Processing (NLP)** and **Computer Vision**. My expertise lies in fine-tuning Large Language Models, semantic analysis, and deploying local LLM inference stacks. Beyond core algorithms, I have hands-on experience building **MLOps pipelines** and scalable **Data Engineering** architectures (Scala/Spark), ensuring that intelligent models are not just theoretical but production-ready.
+I am an **AI Engineering Student at EPITA**, passionately focused on **Natural Language Processing (NLP)** and **Computer Vision**. My expertise lies in fine-tuning Large Language Models, semantic analysis, and deploying local LLM inference stacks. I also explore **Deep Learning**, **Machine Learning**, and **Reinforcement Learning** (including DQN implementations). On the **MLOps** side, I have hands-on experience with model versioning using Azure ML Studio, model deployment on VMs, and infrastructure as code with Terraform—ensuring that intelligent models are not just theoretical but production-ready.
 
 ---
 
@@ -16,7 +16,6 @@ I am an **AI Engineering Student at EPITA**, passionately focused on **Natural L
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 <!-- Core ML -->
@@ -32,8 +31,10 @@ I am an **AI Engineering Student at EPITA**, passionately focused on **Natural L
 <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" />
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
 
-<!-- Ops & Tools -->
+<!-- MLOps & Tools -->
 <br/>
+<img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
